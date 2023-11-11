@@ -1,9 +1,10 @@
 #PowerBI Dashboard Projects
 <br>
-Store Sales Analysis Dashboard using Microsoft PowerBI with 15days sales forecasting
+Store Sales Analysis Dashboard using Microsoft PowerBI
 <br>
-1) Utilized data analysis techniques, focusing on time series analysis.
-2) Provided valuable insights for informed decision-making.
-3) Achieved accurate sales forecasting using specialized methods.
-4) Created interactive dashboard with KPIs and DAX queries using PowerBI.
-5) Contributed to business success through data-driven strategies. 
+1) Conducting thorough data cleaning with several techniques for better visualization and analysis.
+2) Incorporated charts, maps, slicers, and KPIs to enhance data presentation.
+3) Applied DAX queries to optimize the functionality of the dashboard.
+4) Achieved accurate 15days sales forecasting using specialized methods.
+5) Developed a visually engaging dashboard using Microsoft Power BI.
+6) Provided valuable insights for informed decision-making.
